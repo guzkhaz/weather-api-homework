@@ -1,0 +1,37 @@
+.this__day{
+    padding: 20px;
+    max-width: 400px;
+    width: 100%;
+    background: white;
+    box-shadow: 2px 5px 25px -3px rgba(180,180,180,0.25);
+    border-radius: 20px;
+    margin: 40px 0;
+}
+
+.top__block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 30px;
+    svg{
+        width: 119px;
+        height: 119px;
+    }
+    .this_temp{
+        font-size: 96px;
+        font-weight: 500;
+        color: #4793FF;
+    }
+    .this__day_name{
+        font-size: 40px;
+        color: black;
+        font-weight: 500;
+    }
+}
+.bottom__block{
+    .this__time, .this__city{
+        color: #939CB0;
+        font-size: 25px;
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather-api-homework/static/css/main.bbea6beb.css",
+    "main.js": "/weather-api-homework/static/js/main.5a691d74.js",
+    "static/media/cloud.png": "/weather-api-homework/static/media/cloud.d16a521bca3f96c5bb92.png",
+    "index.html": "/weather-api-homework/index.html",
+    "main.bbea6beb.css.map": "/weather-api-homework/static/css/main.bbea6beb.css.map",
+    "main.5a691d74.js.map": "/weather-api-homework/static/js/main.5a691d74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbea6beb.css",
+    "static/js/main.5a691d74.js"
+  ]
+}

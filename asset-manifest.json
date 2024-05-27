@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://guzkhaz.github.io/weather-api-homework/static/css/main.bbea6beb.css",
-    "main.js": "https://guzkhaz.github.io/weather-api-homework/static/js/main.e1439fca.js",
+    "main.js": "https://guzkhaz.github.io/weather-api-homework/static/js/main.1bcb902d.js",
     "static/media/cloud.png": "https://guzkhaz.github.io/weather-api-homework/static/media/cloud.d16a521bca3f96c5bb92.png",
     "index.html": "https://guzkhaz.github.io/weather-api-homework/index.html",
     "main.bbea6beb.css.map": "https://guzkhaz.github.io/weather-api-homework/static/css/main.bbea6beb.css.map",
-    "main.e1439fca.js.map": "https://guzkhaz.github.io/weather-api-homework/static/js/main.e1439fca.js.map"
+    "main.1bcb902d.js.map": "https://guzkhaz.github.io/weather-api-homework/static/js/main.1bcb902d.js.map"
   },
   "entrypoints": [
     "static/css/main.bbea6beb.css",
-    "static/js/main.e1439fca.js"
+    "static/js/main.1bcb902d.js"
   ]
 }
